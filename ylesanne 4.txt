@@ -1,5 +1,3 @@
-Graphics defined by SVG is in which format?
-1.CSS
-2.HTML
-3.XML
-
+SQL-andmete puhul on alamfailis olevate andmete hulk piiratud,kelle pikkus on alla 170 cm.
+SELECT * FROM ...
+WHERE ...
