@@ -1,0 +1,6 @@
+﻿Для данных SQL количество данных в таблице lapsed файле ограничено,
+чей рост  меньше чем 170 см.
+SELECT * FROM lapsed
+WHERE height < 170
+
+(height was not in exercise, so I put it myself)
