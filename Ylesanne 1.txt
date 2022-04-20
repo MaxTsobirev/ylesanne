@@ -2,6 +2,6 @@
 
 Muudab pealinna Pärnu, kui laps on sündinud 2004.aastal. Tabelis on lapsed.
 
-UPADTE laps
+UPDATE laps (fixed)
 SET synnilinn = 'Pärnu'
 WHERE synniaasta = 2004
