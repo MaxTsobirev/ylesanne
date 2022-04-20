@@ -1,0 +1,34 @@
+Ülesanne 1
+
+Muudab pealinna Pärnu, kui laps on sündinud 2004.aastal. Tabelis on lapsed.
+
+UPADTE laps
+SET synnilinn = 'Pärnu'
+WHERE synniaasta = 2004
+
+Ülesanne 2
+
+CREATE TABLE instructor * (
+  ID = CHAR(5),
+  name = VARCHAR(20) NOT NULL,
+  dept_name = VARCHAR(20),
+  salary = NUMERIC(8,2),
+  PRIMARY KEY = (ID),
+  FOREIGN KEY = (dept_name) REFERENCES department(dept_name)
+);
+
+Ülesanne 3
+
+Mis on HTML?
+
+1) HTML on lehe hüperteksti märgistuskeel.
+2) HTML on astmelised stiililehed.
+3) HTML on skriptimiskeel, mida kasutatakse peamiselt serveripoolsetes lahendustes dünaamiliste veebilehtede loomisel.
+
+Ülesanne 4
+
+Graphics defined by SVG is in which format?
+1.CSS
+2.HTML
+3.XML
+
