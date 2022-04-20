@@ -1,0 +1,5 @@
+Mis on HTML?
+
+1) HTML on lehe hüperteksti märgistuskeel.
+2) HTML on astmelised stiililehed.
+3) HTML on skriptimiskeel, mida kasutatakse peamiselt serveripoolsetes lahendustes dünaamiliste veebilehtede loomisel.
